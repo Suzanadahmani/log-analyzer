@@ -3,7 +3,6 @@
 Outil Python d'analyse de logs d'authentification pour détecter des comportements suspects :
 brute force, connexions hors heures ouvrées, utilisateurs les plus ciblés.
 
-Développé dans le cadre du Master 1 CSSD — Cybersécurité et Science des Données, Université Paris 8.
 
 ---
 
@@ -89,6 +88,3 @@ FICHIER_LOGS = "auth.log"
 
 ---
 
-## Auteur
-
-Suzana DAHMANI — Master 1 CSSD, Université Paris 8
