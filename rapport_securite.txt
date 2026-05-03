@@ -1,0 +1,26 @@
+============================================================
+       RAPPORT D'ANALYSE DE LOGS DE SÉCURITÉ
+       Généré le : 2026-05-03 22:11:58
+============================================================
+
+[RÉSUMÉ GÉNÉRAL]
+  Total d'événements analysés : 24
+  Connexions réussies          : 8
+  Tentatives échouées          : 16
+
+[ALERTES BRUTE FORCE] (seuil : 5 échecs)
+  ⚠  IP 45.33.32.156 — 8 tentatives échouées
+  ⚠  IP 198.51.100.42 — 5 tentatives échouées
+
+[CONNEXIONS HORS HEURES OUVRÉES] (8h–19h)
+  ⚠  2024-01-15 02:17 — utilisateur 'dave' depuis 10.0.0.99
+  ⚠  2024-01-15 03:22 — utilisateur 'admin' depuis 45.33.32.156
+  ⚠  2024-01-16 01:05 — utilisateur 'alice' depuis 192.168.1.10
+
+[UTILISATEURS LES PLUS CIBLÉS]
+  admin — 9 tentative(s) échouée(s)
+  root — 7 tentative(s) échouée(s)
+
+============================================================
+Fin du rapport.
+============================================================
